@@ -1,0 +1,497 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "boundary",
+        "source_file": "DJI_0584\\boundary.geojson",
+        "image_id": "0054_top_20250619_t0",
+        "method": "Homography",
+        "rmse": 0.00030745608031631296,
+        "inliers": 4,
+        "template_ref": "template_points_0919수정.csv",
+        "source_polygon_file": "DJI_0584.geojson",
+        "generated_at": "2025-10-03T01:01:51.146732"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              398.7906188964844,
+              879.9234008789062
+            ],
+            [
+              471.8421936035156,
+              960.7772216796875
+            ],
+            [
+              518.4492797851562,
+              985.3927001953125
+            ],
+            [
+              365.5010986328125,
+              888.4801635742188
+            ],
+            [
+              398.7906188964844,
+              879.9234008789062
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1,
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "no_parking",
+        "source_file": "DJI_0584\\no_parking.geojson",
+        "image_id": "0054_top_20250619_t0",
+        "method": "Homography",
+        "rmse": 0.00030745608031631296,
+        "inliers": 4,
+        "template_ref": "template_points_0919수정.csv",
+        "source_polygon_file": "DJI_0584.geojson",
+        "generated_at": "2025-10-03T01:01:51.146755"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                618.8943481445312,
+                1069.03564453125
+              ],
+              [
+                668.1326904296875,
+                1101.54931640625
+              ],
+              [
+                907.9886474609375,
+                1279.7711181640625
+              ],
+              [
+                746.9296875,
+                1167.9072265625
+              ],
+              [
+                618.8943481445312,
+                1069.03564453125
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2,
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "no_parking",
+        "source_file": "DJI_0584\\no_parking.geojson",
+        "image_id": "0054_top_20250619_t0",
+        "method": "Homography",
+        "rmse": 0.00030745608031631296,
+        "inliers": 4,
+        "template_ref": "template_points_0919수정.csv",
+        "source_polygon_file": "DJI_0584.geojson",
+        "generated_at": "2025-10-03T01:01:51.146766"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                564.1336669921875,
+                1024.177734375
+              ],
+              [
+                622.9591064453125,
+                1067.968505859375
+              ],
+              [
+                591.1206665039062,
+                1047.6676025390625
+              ],
+              [
+                547.9865112304688,
+                1014.3758544921875
+              ],
+              [
+                564.1336669921875,
+                1024.177734375
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 3,
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "no_parking",
+        "source_file": "DJI_0584\\no_parking.geojson",
+        "image_id": "0054_top_20250619_t0",
+        "method": "Homography",
+        "rmse": 0.00030745608031631296,
+        "inliers": 4,
+        "template_ref": "template_points_0919수정.csv",
+        "source_polygon_file": "DJI_0584.geojson",
+        "generated_at": "2025-10-03T01:01:51.146775"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                498.06402587890625,
+                975.1250610351562
+              ],
+              [
+                495.2054748535156,
+                973.5217895507812
+              ],
+              [
+                494.2586364746094,
+                972.6188354492188
+              ],
+              [
+                496.6773376464844,
+                973.8978881835938
+              ],
+              [
+                498.06402587890625,
+                975.1250610351562
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4,
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "no_parking",
+        "source_file": "DJI_0584\\no_parking.geojson",
+        "image_id": "0054_top_20250619_t0",
+        "method": "Homography",
+        "rmse": 0.00030745608031631296,
+        "inliers": 4,
+        "template_ref": "template_points_0919수정.csv",
+        "source_polygon_file": "DJI_0584.geojson",
+        "generated_at": "2025-10-03T01:01:51.146785"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                500.7108459472656,
+                976.0260009765625
+              ],
+              [
+                500.8273620605469,
+                976.1971435546875
+              ],
+              [
+                499.0485534667969,
+                975.18017578125
+              ],
+              [
+                499.0838317871094,
+                975.16650390625
+              ],
+              [
+                500.7108459472656,
+                976.0260009765625
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 5,
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "no_parking",
+        "source_file": "DJI_0584\\no_parking.geojson",
+        "image_id": "0054_top_20250619_t0",
+        "method": "Homography",
+        "rmse": 0.00030745608031631296,
+        "inliers": 4,
+        "template_ref": "template_points_0919수정.csv",
+        "source_polygon_file": "DJI_0584.geojson",
+        "generated_at": "2025-10-03T01:01:51.146794"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                531.7467041015625,
+                993.8217163085938
+              ],
+              [
+                533.7481079101562,
+                995.0906982421875
+              ],
+              [
+                512.333251953125,
+                983.2744140625
+              ],
+              [
+                511.27581787109375,
+                982.54150390625
+              ],
+              [
+                531.7467041015625,
+                993.8217163085938
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "parking_area",
+        "source_file": "DJI_0584\\parking_area.geojson",
+        "image_id": "0054_top_20250619_t0",
+        "method": "Homography",
+        "rmse": 0.00030745608031631296,
+        "inliers": 4,
+        "template_ref": "template_points_0919수정.csv",
+        "source_polygon_file": "DJI_0584.geojson",
+        "generated_at": "2025-10-03T01:01:51.146804"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              746.9296875,
+              1167.9072265625
+            ],
+            [
+              618.8943481445312,
+              1069.03564453125
+            ],
+            [
+              668.1326904296875,
+              1101.54931640625
+            ],
+            [
+              907.9886474609375,
+              1279.7711181640625
+            ],
+            [
+              746.9296875,
+              1167.9072265625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "parking_area",
+        "source_file": "DJI_0584\\parking_area.geojson",
+        "image_id": "0054_top_20250619_t0",
+        "method": "Homography",
+        "rmse": 0.00030745608031631296,
+        "inliers": 4,
+        "template_ref": "template_points_0919수정.csv",
+        "source_polygon_file": "DJI_0584.geojson",
+        "generated_at": "2025-10-03T01:01:51.146813"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              547.9865112304688,
+              1014.3758544921875
+            ],
+            [
+              564.1336669921875,
+              1024.177734375
+            ],
+            [
+              622.9591064453125,
+              1067.968505859375
+            ],
+            [
+              591.1206665039062,
+              1047.6676025390625
+            ],
+            [
+              591.1206665039062,
+              1047.6676025390625
+            ],
+            [
+              547.9865112304688,
+              1014.3758544921875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "parking_area",
+        "source_file": "DJI_0584\\parking_area.geojson",
+        "image_id": "0054_top_20250619_t0",
+        "method": "Homography",
+        "rmse": 0.00030745608031631296,
+        "inliers": 4,
+        "template_ref": "template_points_0919수정.csv",
+        "source_polygon_file": "DJI_0584.geojson",
+        "generated_at": "2025-10-03T01:01:51.146822"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              496.6773376464844,
+              973.8978881835938
+            ],
+            [
+              498.06402587890625,
+              975.1250610351562
+            ],
+            [
+              495.2054748535156,
+              973.5217895507812
+            ],
+            [
+              494.2586364746094,
+              972.6188354492188
+            ],
+            [
+              496.6773376464844,
+              973.8978881835938
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "parking_area",
+        "source_file": "DJI_0584\\parking_area.geojson",
+        "image_id": "0054_top_20250619_t0",
+        "method": "Homography",
+        "rmse": 0.00030745608031631296,
+        "inliers": 4,
+        "template_ref": "template_points_0919수정.csv",
+        "source_polygon_file": "DJI_0584.geojson",
+        "generated_at": "2025-10-03T01:01:51.146830"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              499.0838317871094,
+              975.16650390625
+            ],
+            [
+              499.0485534667969,
+              975.18017578125
+            ],
+            [
+              500.8273620605469,
+              976.1971435546875
+            ],
+            [
+              500.7108459472656,
+              976.0260009765625
+            ],
+            [
+              499.0838317871094,
+              975.16650390625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "parking_area",
+        "source_file": "DJI_0584\\parking_area.geojson",
+        "image_id": "0054_top_20250619_t0",
+        "method": "Homography",
+        "rmse": 0.00030745608031631296,
+        "inliers": 4,
+        "template_ref": "template_points_0919수정.csv",
+        "source_polygon_file": "DJI_0584.geojson",
+        "generated_at": "2025-10-03T01:01:51.146839"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              511.27581787109375,
+              982.54150390625
+            ],
+            [
+              512.333251953125,
+              983.2744140625
+            ],
+            [
+              533.7481079101562,
+              995.0906982421875
+            ],
+            [
+              531.7467041015625,
+              993.8217163085938
+            ],
+            [
+              511.27581787109375,
+              982.54150390625
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
