@@ -1,0 +1,420 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "boundary",
+        "source_file": "DJI_0584\\boundary.geojson"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7653.602783203125,
+              13636.09130859375
+            ],
+            [
+              6061.755859375,
+              3046.8134765625
+            ],
+            [
+              0.0,
+              0.0
+            ],
+            [
+              7014.9515380859375,
+              13777.991088867188
+            ],
+            [
+              7653.602783203125,
+              13636.09130859375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1,
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "no_parking",
+        "source_file": "DJI_0584\\no_parking.geojson"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7155.9237060546875,
+                12827.82308959961
+              ],
+              [
+                7098.4287109375,
+                12856.861419677734
+              ],
+              [
+                7165.60546875,
+                13043.82177734375
+              ],
+              [
+                7223.072265625,
+                13021.31494140625
+              ],
+              [
+                7155.9237060546875,
+                12827.82308959961
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2,
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "no_parking",
+        "source_file": "DJI_0584\\no_parking.geojson"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                6927.615478515625,
+                12390.497924804688
+              ],
+              [
+                7058.1239013671875,
+                12745.476776123047
+              ],
+              [
+                7121.4150390625,
+                12724.096618652344
+              ],
+              [
+                6998.659423828125,
+                12365.621604919434
+              ],
+              [
+                6927.615478515625,
+                12390.497924804688
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 3,
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "no_parking",
+        "source_file": "DJI_0584\\no_parking.geojson"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                4338.33203125,
+                5228.833984375
+              ],
+              [
+                4382.3656005859375,
+                4834.4453125
+              ],
+              [
+                3193.990234375,
+                1626.5947265625
+              ],
+              [
+                2887.6376953125,
+                1487.130859375
+              ],
+              [
+                4338.33203125,
+                5228.833984375
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4,
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "no_parking",
+        "source_file": "DJI_0584\\no_parking.geojson"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                2352.142822265625,
+                1198.9833984375
+              ],
+              [
+                2852.563232421875,
+                2340.7646484375
+              ],
+              [
+                2723.85302734375,
+                1664.9013671875
+              ],
+              [
+                2563.3095703125,
+                1303.126953125
+              ],
+              [
+                2352.142822265625,
+                1198.9833984375
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 5,
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "no_parking",
+        "source_file": "DJI_0584\\no_parking.geojson"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                3747.64599609375,
+                7358.04443359375
+              ],
+              [
+                3970.734130859375,
+                7795.82861328125
+              ],
+              [
+                4426.13525390625,
+                7120.1923828125
+              ],
+              [
+                4199.35693359375,
+                6598.6328125
+              ],
+              [
+                3747.64599609375,
+                7358.04443359375
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "parking_area",
+        "source_file": "DJI_0584\\parking_area.geojson"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7223.072265625,
+              13021.31494140625
+            ],
+            [
+              7155.9237060546875,
+              12827.82308959961
+            ],
+            [
+              7098.4287109375,
+              12856.861419677734
+            ],
+            [
+              7165.60546875,
+              13043.82177734375
+            ],
+            [
+              7223.072265625,
+              13021.31494140625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "parking_area",
+        "source_file": "DJI_0584\\parking_area.geojson"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6998.659423828125,
+              12365.621604919434
+            ],
+            [
+              6927.615478515625,
+              12390.497924804688
+            ],
+            [
+              7058.1239013671875,
+              12745.476776123047
+            ],
+            [
+              7121.4150390625,
+              12724.096618652344
+            ],
+            [
+              7121.4150390625,
+              12724.096618652344
+            ],
+            [
+              6998.659423828125,
+              12365.621604919434
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "parking_area",
+        "source_file": "DJI_0584\\parking_area.geojson"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2887.6376953125,
+              1487.130859375
+            ],
+            [
+              4338.33203125,
+              5228.833984375
+            ],
+            [
+              4382.3656005859375,
+              4834.4453125
+            ],
+            [
+              3193.990234375,
+              1626.5947265625
+            ],
+            [
+              2887.6376953125,
+              1487.130859375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "parking_area",
+        "source_file": "DJI_0584\\parking_area.geojson"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2563.3095703125,
+              1303.126953125
+            ],
+            [
+              2723.85302734375,
+              1664.9013671875
+            ],
+            [
+              2852.563232421875,
+              2340.7646484375
+            ],
+            [
+              2352.142822265625,
+              1198.9833984375
+            ],
+            [
+              2563.3095703125,
+              1303.126953125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scene_id": null,
+        "image_name": "DJI_0584",
+        "layer_type": "parking_area",
+        "source_file": "DJI_0584\\parking_area.geojson"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4199.35693359375,
+              6598.6328125
+            ],
+            [
+              4426.13525390625,
+              7120.1923828125
+            ],
+            [
+              3970.734130859375,
+              7795.82861328125
+            ],
+            [
+              3747.64599609375,
+              7358.04443359375
+            ],
+            [
+              4199.35693359375,
+              6598.6328125
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
