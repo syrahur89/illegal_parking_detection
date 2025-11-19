@@ -1,0 +1,26 @@
+pair_csv: "../data/pairs/DET_OK.csv"
+
+detection_root: "../data/detections"
+image_root: "../data/images"
+polygon_root: "../data/polygons"
+
+matching:
+  iou_thresh: 0.3
+  class_filter: ["car", "truck", "bus"]
+  max_dist_px: 80
+
+stop_rule:
+  move_iou_thresh: 0.1
+  stop_iou_thresh: 0.5
+
+illegal_rule:
+  legal_inside_ratio: 0.5
+  no_parking_inside_ratio: 0.5
+  occlusion_allow: true
+
+output:
+  csv_dir: "out/csv"
+  overlay_dir: "out/overlays"
+  stop_csv_name: "stop_results.csv"
+  illegal_csv_name: "illegal_results.csv"
+  overlay_suffix: "_overlay.jpg"

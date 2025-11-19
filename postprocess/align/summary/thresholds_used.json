@@ -1,0 +1,25 @@
+{
+  "config_raw": {
+    "MIN_POINTS_FOR_HOMOGRAPHY": 8,
+    "MIN_POINTS_FOR_AFFINE": 3,
+    "RMSE_THRESHOLD": 8.0,
+    "MIN_INLIERS": 50,
+    "RANSAC_REPROJ_THRESH": 5.0,
+    "USE_SIMILARITY_FIRST": true,
+    "GENERATE_PREVIEWS": true,
+    "MANUAL_PREVIEW": true,
+    "PREVIEW_COLOR": [
+      0,
+      255,
+      0
+    ],
+    "PREVIEW_THICKNESS": 2,
+    "PREVIEW_ALPHA": 0.4
+  },
+  "thresholds": {
+    "rmse_max": 8.0,
+    "inliers_min": 50,
+    "similarity_first": true,
+    "ransac_reproj_thresh": 5.0
+  }
+}
